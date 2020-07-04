@@ -1,0 +1,37 @@
+ 1. What is a cloud service?
+
+ Ans. The term "cloud services" refers to a wide range of services delivered on demand to companies
+ and customers over the internet. These services are designed to provide easy, affordable access to
+ applications and resources, without the need for internal infrastructure or hardware. From checking
+ email to collaborating on documents, most employees use cloud services throughout the workday, whether
+ they’re aware of it or not.
+
+ 2. What types of cloud services are there?
+
+    Generally speaking, there are three basic types of cloud services:
+
+    A. Software as a Service (SaaS) -   The most widely recognized type of cloud service is known as
+                                        software as a service, or SaaS. This broad category encompasses a
+                                        variety of services, such as file storage and backup, web-based email
+                                        and project management tools.
+
+                                        Examples of SaaS cloud service providers include Dropbox, G Suite, Microsoft
+                                        Office 365, Slack and Citrix Content Collaboration. In each of these applications,
+                                        users can access, share, store and secure information in “the cloud.”
+
+    B. Infrastructure as a Service (IaaS) - Infrastructure as a service, or IaaS, provides the infrastructure that many
+                                        cloud service providers need to manage SaaS tools—but don’t want to maintain themselves.
+                                        It serves as the complete data center framework, eliminating the need for resource-intensive,
+                                        on-site installations.
+
+                                        Examples of IaaS are Amazon Web Services (AWS), Microsoft Azure and Google Compute Engine.
+                                        These providers maintain all storage servers and networking hardware, and may also
+                                        offer load balancing, application firewalls and more. Many well-known SaaS providers
+                                        run on IaaS platforms.
+
+    C. Platform as a Service (PaaS) -   The cloud service model known as platform as a service, or PaaS, serves as a web-based
+                                        environment where developers can build cloud apps. PaaS provides a database,
+                                        operating system and programming language that organizations can use to develop
+                                        cloud-based software, without having to maintain the underlying elements.
+
+                                        Many IaaS vendors, including the examples listed above, also offer PaaS capabilities.
