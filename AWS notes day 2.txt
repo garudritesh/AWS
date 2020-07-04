@@ -1,0 +1,45 @@
+                                                        
+                                                               AWS day 1 assignment
+
+ 1.  what is cloud?
+
+Ans. The cloud" refers to servers that are accessed over the Internet, and the software
+     and databases that run on those servers. ... By using cloud computing, users and companies
+     don't have to manage physical servers themselves or run software applications on their own machines.
+
+ 2.  Different types of cloud?
+
+Ans. 1)Private cloud - Specific company owner use there own cloud. eg.- USA uses AWS private cloud. 
+     2)public cloud - Available to everyone. like individual user can use AWS cloud
+       eg.- Google - Google cloud platform.
+            AWS - Amezon web service.
+            Windows - Azure.
+     3)Hybrid cloud - Mixture of private cloud and public cloud.
+
+ 3.  Advantages and disadvantages of cloud?
+
+Ans. Advantages -   1)Easy implementation.
+                    2)Access your data anywhere, anytime.
+		    3)No hardware required.
+                    4)cost per head.
+                    5)Flexibility for growth.
+                    6)Efficient recovery.
+
+     Disadvantage - 1)No longer in control.
+                    2)May not get all the features.
+                    3)Doesn't mean you should do away with servers.
+                    4)Bandwidth issues.
+ 
+ 4.  What is EC-2?
+
+Ans. Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity in
+     the Amazon Web Services (AWS) cloud. Using Amazon EC2 eliminates your need to invest in hardware up front,
+     so you can develop and deploy applications faster. You can use Amazon EC2 to launch as many or as few
+     virtual servers as you need, configure security and networking, and manage storage. Amazon EC2 enables
+     you to scale up or down to handle changes in requirements or spikes in popularity, reducing your need to forecast traffic.
+   
+    Advangates of EC-2 : 1)On demand service
+                         2)Access your data anywhere, anytime.
+                         3)Internet speed almost upto 100 gegabyte. 
+                         4)Electricity and maitenance free.
+                         5)security.
