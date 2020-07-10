@@ -1,0 +1,32 @@
+
+
+  1. what is Lambda?
+  
+  Ans. AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume.
+
+       With Lambda, you can run code for virtually any type of application or backend service - all with zero administration.
+       Just upload your code and Lambda takes care of everything required to run and scale your code with high availability.
+       You can set up your code to automatically trigger from other AWS services or call it directly from any web or mobile app.
+
+  Understanding the Benefits of AWS and AWS Lambda Serverless :
+ 
+        1. Minimized Cost - The principal benefit of the pay-as-you-go model is fairly obvious: because you pay only for exactly
+                            what you use, you minimize operating cost. None of the price you pay at the end of the month goes
+                            towards any unused minutes of server time, as your cost is solely a function of the time your application used.
+
+        2. Automatic Scalability - Let’s say that for some reason, your application suddenly goes viral. It might be a tweet from a
+                            celebrity or an unplanned appearance on television. You never know what’s going to happen, but if it does,
+                            your application could be overloaded with server requests.
+  
+        3. Killer Use Cases - a. Daily Tasks
+                              b. Notifications
+                              c. Notifications
+                              d. Chatbots
+ 
+        4. Quicker Iterative Development - Given that your engineers will be able to ship code directly from the vendor console,
+                            the need for continuous delivery tools is rendered obsolete. The net result? Your developers have
+                            more time to spend on improving the product. When new features are ready to be shipped,
+                            they can be done so in a much more timely manner.
+
+        5. Less Operational Management - The net result of automatic scalability is less time spent on maintaining the service.
+                            Again, this frees up your technical staff for more product innovation and development.
